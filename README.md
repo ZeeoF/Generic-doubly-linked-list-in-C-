@@ -1,1 +1,1 @@
-# Generic-doubly-linked-list-in-C-
+# Generic-doubly-linked-list-in-CSharp
